@@ -8,9 +8,9 @@
 
 ## 🚀 Sobre mim
 
-💻 Desenvolvedor fullstack focado em backend
-⚡ Construindo APIs escaláveis e sistemas orientados a dados
-📚 Explorando Machine Learning e arquitetura de sistemas
+💻 Desenvolvedor fullstack focado em backend  
+⚡ Construindo APIs escaláveis e sistemas orientados a dados  
+📚 Explorando Machine Learning e arquitetura de sistemas  
 
 ---
 
@@ -25,8 +25,8 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thewallkz&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewallkz&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thewallkz&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewallkz&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -35,14 +35,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=thewallkz&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thewallkz&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -63,7 +55,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-⭐ Sempre aberto a novas oportunidades e projetos interessantes!
