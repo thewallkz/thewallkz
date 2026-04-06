@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Bruno Anjos
+# 👋 Olá, eu sou o Bruno
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+Developer;Java+%7C+Node+%7C+Python;Data+%26+AI+Enthusiast" />
@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-💻 Desenvolvedor focado em backend e inteligência artificial
+💻 Desenvolvedor fullstack focado em backend
 ⚡ Construindo APIs escaláveis e sistemas orientados a dados
 📚 Explorando Machine Learning e arquitetura de sistemas
 
