@@ -22,29 +22,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thewallkz&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewallkz&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
-
-## 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=thewallkz&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Projetos em destaque
-
-🔹 Em breve — adicionando projetos relevantes aqui...
-
----
-
 ## 📫 Contato
 
 <p align="center">
